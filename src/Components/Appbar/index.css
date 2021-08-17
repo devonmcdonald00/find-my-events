@@ -1,0 +1,16 @@
+.appbar-container{
+    background-color: rgb(26, 43, 43);
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.appbar-title {
+    color: white;
+    font-weight: 700;
+    font-size: 18px;
+    font-family: 'Roboto';
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
